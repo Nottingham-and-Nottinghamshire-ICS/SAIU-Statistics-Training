@@ -14,8 +14,6 @@ R and RStudio should be installed to allow completion of the R practical element
 This session covers the most commonly used statistical tests for data analysis, including detailed explanations of confidence intervals, p-values, and the concepts of null and alternative hypotheses. During the hands-on lab, we will use R and R Studio. All training materials can be found in the folder titled 'Session II'. Please download and save these materials locally before the session begins. The R scripts provided include all necessary libraries required for the lab exercises. As a best practice, consider creating an R project and organizing these materials within it. Additionally, freely downloadable textbooks are included for further reading.
 
 ## Feedback
-The feedback survey for day 1 can be accessed via: https://www.surveymonkey.com/r/668J2TP
-
 The feedback survey for day 2 can be accessed via: https://www.surveymonkey.com/r/GD8C9RC
 
 
