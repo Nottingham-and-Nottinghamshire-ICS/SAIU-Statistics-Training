@@ -15,6 +15,7 @@ This session covers the most commonly used statistical tests for data analysis, 
 
 ## Feedback
 The feedback survey for day 1 can be accessed via: https://www.surveymonkey.com/r/668J2TP
+
 The feedback survey for day 2 can be accessed via: https://www.surveymonkey.com/r/GD8C9RC
 
 
