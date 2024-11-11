@@ -13,7 +13,10 @@ R and RStudio should be installed to allow completion of the R practical element
 ## Practical Session 2 (07/11/24)
 This session covers the most commonly used statistical tests for data analysis, including detailed explanations of confidence intervals, p-values, and the concepts of null and alternative hypotheses. During the hands-on lab, we will use R and R Studio. All training materials can be found in the folder titled 'Session II'. Please download and save these materials locally before the session begins. The R scripts provided include all necessary libraries required for the lab exercises. As a best practice, consider creating an R project and organizing these materials within it. Additionally, freely downloadable textbooks are included for further reading.
 
+## Practical Session 3 (11/11/24)
+This session covers categorical data analysis - measuring association between two categorical variables. It explores two measures of association, proportions, and Odds Ratio with clear explanations of the theory that underpins theses measures. Statistical test such as Chi- squared test and Fisher exact test to statistically assess the association between two variables are covered. During the hands-on lab, we will use R and R Studio. All training materials can be found in the folder titled 'Session III'. Please download and save these materials locally before the session begins. The R scripts provided include all necessary libraries required for the lab exercises.
+
 ## Feedback
-The feedback survey for day 2 can be accessed via: https://www.surveymonkey.com/r/GD8C9RC
+The feedback survey for day 3 can be accessed via: https://www.surveymonkey.com/r/B5L9HVW      
 
 
